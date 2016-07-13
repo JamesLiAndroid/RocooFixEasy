@@ -1,0 +1,52 @@
+# Gradle files
+.gradle/
+
+# Built application files
+*.apk
+*.ap_
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+build
+
+# gradle.properties
+mapping.txt
+class_files.txt
+seeds.txt
+unused.txt
+
+# Intellij project files
+*.iml
+.idea
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# Log Files
+*.log
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+bin
+gen
+
+#NDK
+obj/
